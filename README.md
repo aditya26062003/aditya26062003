@@ -24,6 +24,9 @@
 ![Aditya Singh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya26062003&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya26062003"/>
+
+
 ### ⏳ How I Spend My Leisure: Mastering Chess Tactics
 <img src='https://media1.tenor.com/m/bNqc1hW5QGwAAAAC/camp-here-and-there-camp-here-%26-there.gif' style="height: 300px;"/>
 
