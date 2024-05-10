@@ -24,7 +24,7 @@
 ![Aditya Singh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya26062003&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-[![Top Langs](https://github-readme-stats-git-master-aditya26062003s-projects.vercel.app/api/top-langs/?username=aditya26062003&layout=donut-vertical)](https://github.com/aditya26062003/github-readme-stats)
+![Top Langs](https://github-readme-stats-pink-nine-23.vercel.app/api/top-langs/?username=aditya26062003&langs_count=3)
 
 
 
