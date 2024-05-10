@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="300px" width="300px" />
 <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="40%" />
 # 📊 GitHub Stats:
-![ADITYA SINGH GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya26062003&show_icons=true&theme=radical)
+![ADITYA SINGH GitHub stats](https://github-readme-stats-pink-nine-23.vercel.app/api?username=aditya26062003&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
@@ -24,7 +24,8 @@
 ![Aditya Singh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya26062003&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya26062003&layout=compact)
+[![Top Langs](https://github-readme-stats-git-master-aditya26062003s-projects.vercel.app/api/top-langs/?username=aditya26062003&layout=donut-vertical)](https://github.com/aditya26062003/github-readme-stats)
+
 
 
 ### ⏳ How I Spend My Leisure: Mastering Chess Tactics
