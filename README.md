@@ -2,7 +2,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh26062003)
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=adi_2606)
+<!---![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=adi_2606)-->
 
 <!--START_SECTION:waka-->
 
