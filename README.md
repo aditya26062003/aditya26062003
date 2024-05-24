@@ -1,4 +1,9 @@
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <h1 align="center">Hello! 👋 I'm Aditya Singh, Exploring the World of Code on GitHub!!</h1>
 
