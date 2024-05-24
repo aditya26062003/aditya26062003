@@ -1,4 +1,5 @@
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h1 align="center">Hello! 👋 I'm Aditya Singh, Exploring the World of Code on GitHub!!</h1>
 
 ## 🌐 Socials:
