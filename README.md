@@ -31,7 +31,7 @@ No activity tracked
 ![Aditya Singh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya26062003&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya26062003&theme=aura_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya26062003&hide_progress=true&theme=aura_dark)
 
 
 
