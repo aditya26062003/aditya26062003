@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+F#       15 mins         ██████████████▓░░░░░░░░░░   58.99 %
+Binary   7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+C++      3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
 ```
 
 <!--END_SECTION:waka-->
