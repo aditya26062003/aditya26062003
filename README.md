@@ -17,8 +17,8 @@ No activity tracked
 
 
 # 📊 GitHub Stats:
-![Aditya Singh's Stats](https://github-readme-stats.vercel.app/api?username=aditya26062003&show_icons=true&theme=aura_dark)
-<!---![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya26062003&theme=aura_dark)--->
+<!---![Aditya Singh's Stats](https://github-readme-stats.vercel.app/api?username=aditya26062003&show_icons=true&theme=aura_dark)--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya26062003&theme=aura_dark)
 <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="200px" width="200px" />
 
 ## 🏆 GitHub Trophies
