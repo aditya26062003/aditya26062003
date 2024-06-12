@@ -1,4 +1,15 @@
-<h1 align="center">Hello! 👋 I'm Aditya Singh, Exploring the World of Code on GitHub!!</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There! I'm Aditya Singh 🌟
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlnMGp2OWQ4eWExbm5zNDhsdXNlZXJvOWtiNm5qemZ1eWtqc2FtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="30px"/>
+</h1>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHR2M2liam02ZDcwbWZ2OTcwd3h4NjBwNWY0bTR5b3BpM3FmdGJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.webp" width="50px"/>
+  Exploring the World of Code on GitHub!
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R3MnFxeWw5dXY4ZjduZGV6cDMwazBjOTh0aWc2cXV6dnFtcWdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GyyDu4kdNc05E6Jj0l/giphy.webp" width="50px"/>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh26062003)
