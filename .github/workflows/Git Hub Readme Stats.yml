@@ -12,14 +12,17 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: aditya26062003/aditya26062003 
           
           ### content
           SHOW_TITLE: true 
           SECTION_NAME: waka 
           BLOCKS: -> 
-          CODE_LANG: rust
+          CODE_LANG: c++
           TIME_RANGE: all_time 
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           SHOW_TIME: true 
           SHOW_TOTAL: true 
           SHOW_MASKED_TIME: false 
