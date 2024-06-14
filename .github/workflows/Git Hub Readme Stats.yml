@@ -20,9 +20,9 @@ jobs:
           SHOW_TITLE: true 
           SECTION_NAME: waka 
           BLOCKS: -> 
-          CODE_LANG: python
+          CODE_LANG: f#
           TIME_RANGE: all_time 
-          LANG_COUNT: 5
+          LANG_COUNT: 4
           SHOW_TIME: false 
           SHOW_TOTAL: false 
           SHOW_MASKED_TIME: false 
