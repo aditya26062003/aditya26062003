@@ -11,16 +11,19 @@
   </p>
   
   <h4 style="color: #1E3A8A;">
-    <a href="https://github.com/aditya26062003" style="color: #1E40AF; text-decoration: none;">GitHub</a>
+    <a href="https://github.com/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">GitHub</a>
     <span style="color: #2563EB;"> · </span>
-    <a href="https://linkedin.com/in/aditya26062003" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
-  </h4>
+    <a href="https://linkedin.com/in/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
+    <span style="color: #2563EB;"> · </span>
+    <a href="https://twitter.com/ADITYAS01117542" style="color: #1E40AF; text-decoration: none;">Twitter</a>
+    <span style="color: #2563EB;"> · </span>
+    <a href="https://huggingface.co/adi2606" style="color: #1E40AF; text-decoration: none;">Hugging Face</a>
+</h4>
   
   <div style="margin: 20px 0;">
-    <picture>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya26062003&border_radius=10&card_width=500&ring=1E40AF&fire=1E40AF&currStreakLabel=1E40AF&border=FFFFFF00&background=FFFFFF00&stroke=FFFFFF00&currStreakNum=1E3A8A&sideNums=1E3A8A&sideLabels=1E3A8A&dates=2563EB&excludeDaysLabel=2563EB" alt="GitHub Streak" loading="lazy" title="GitHub Streak"/>
-    </picture>
-  </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya26062003&amp;border_radius=10&amp;card_width=500&amp;ring=9C6BFF&amp;fire=9C6BFF&amp;currStreakLabel=9C6BFF&amp;border=FFFFFF00&amp;background=FFFFFF00&amp;stroke=FFFFFF00&amp;currStreakNum=7F3F98&amp;sideNums=7F3F98&amp;sideLabels=7F3F98&amp;dates=A38CCF&amp;excludeDaysLabel=A38CCF" alt="GitHub Streak" loading="lazy" title="GitHub Streak" style="width: 50%; max-width: 100px;">
+</div>
+
 
   <div style="margin: 20px 0;">
     <picture>
