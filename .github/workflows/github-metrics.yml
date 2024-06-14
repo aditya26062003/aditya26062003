@@ -29,7 +29,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
