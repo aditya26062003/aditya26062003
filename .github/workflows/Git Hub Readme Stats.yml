@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 4:05 AM UTC (9:35 AM IST)
-    - cron: "5 4 * * *"
+    - cron: "11 4 * * *"
 
 jobs:
   update-readme:
@@ -15,9 +15,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: aditya26062003/YOUR_REPOSITORY_NAME 
+          
           ### content
           SHOW_TITLE: true 
           SECTION_NAME: waka 
