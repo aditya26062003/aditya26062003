@@ -31,14 +31,13 @@
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
-```python
+```f#
 From: 23 May 2024 - To: 13 June 2024
 
 C++                           >>>>>>>>>>>>>>>>>--------   68.00 %
 Text                          >>-----------------------   08.30 %
 CMake                         >>-----------------------   06.05 %
 C                             >------------------------   04.52 %
-F#                            >------------------------   02.84 %
 ```
 
 <!--END_SECTION:waka-->
