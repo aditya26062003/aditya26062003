@@ -1,5 +1,4 @@
-name: GitHub Metrics
-
+name: Github Metrics
 on:
   workflow_dispatch:
   push:
@@ -13,9 +12,6 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -36,33 +32,9 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_topics: yes
           plugin_topics_limit: 0
-          plugin_topics_mode: mastered
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
           config_order: introduction, base.activity+community, base.repositories, lines, wakatime, topics, achievements
-
-      # Additional steps to enhance the GitHub Metrics workflow
-      - name: Add badges
-        run: |
-          echo "[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditya26062003&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)"
-          echo "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya26062003&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)"
-
-      - name: Recent activity summary
-        run: |
-          git log --pretty=format:"- %s (%h)" -10 > recent_activity.md
-
-      - name: List repositories
-        run: |
-          curl -s "https://api.github.com/users/aditya26062003/repos?per_page=5" | jq -r '.[] | "- [\(.name)](\(.html_url)): \(.description)"' > repositories.md
-
-      # Commit the changes back to the repository
-      - name: Commit changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add github-metrics.* recent_activity.md repositories.md
-          git commit -m "chore: Update GitHub metrics, recent activity, and repositories [skip ci]"
-          git push
