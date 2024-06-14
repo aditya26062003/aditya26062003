@@ -30,6 +30,19 @@
   
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```c++
+From: 23 May 2024 - To: 13 June 2024
+
+Total Time: 8 hrs 59 mins
+
+C++           6 hrs 11 mins   >>>>>>>>>>>>>>>>>--------   68.00 %
+Text          45 mins         >>-----------------------   08.30 %
+CMake         33 mins         >>-----------------------   06.05 %
+C             24 mins         >------------------------   04.52 %
+F#            15 mins         >------------------------   02.84 %
+```
+
+<!--END_SECTION:waka-->
 
 </div>
