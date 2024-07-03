@@ -11,7 +11,7 @@
   </p>
   
   <h4 style="color: #1E3A8A;">
-    <a href="https://github.com/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">GitHub</a>
+    <a href="https://github.com/aditya26062003" style="color: #1E40AF; text-decoration: none;">GitHub</a>
     <span style="color: #2563EB;"> · </span>
     <a href="https://linkedin.com/in/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
     <span style="color: #2563EB;"> · </span>
