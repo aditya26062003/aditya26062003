@@ -1,17 +1,17 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; background-color: #4CAF50; padding: 20px; border-radius: 10px;">
 
-  <h1 style="color: #4CAF50;">Hi, I'm <a href="https://github.com/aditya26062003" style="color: #4CAF50; text-decoration: none;">Aditya Singh</a></h1>
+  <h1 style="color: #4CAF50;">Hi, I'm <a href="https://github.com/EchoSingh" style="color: #4CAF50; text-decoration: none;">Aditya Singh</a></h1>
   <p>
-    <a href="https://github.com/aditya26062003/">
-      <img src="https://komarev.com/ghpvc/?username=aditya26062003&color=1E40AF&label=Profile+Views" alt="Views Counter" style="margin: 10px;" />
+    <a href="https://github.com/EchoSingh/">
+      <img src="https://komarev.com/ghpvc/?username=EchoSingh&color=1E40AF&label=Profile+Views" alt="Views Counter" style="margin: 10px;" />
     </a>
     <a href="https://github.com/aditya26062003/">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faditya260620031212%2Fhit-counter&count_bg=%231E40AF&title_bg=%231E3A8A&title=Hits" alt="Hits Counter" style="margin: 10px;" />
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEchoSingh1212%2Fhit-counter&count_bg=%231E40AF&title_bg=%231E3A8A&title=Hits" alt="Hits Counter" style="margin: 10px;" />
     </a>
   </p>
   
   <h4 style="color: #1E3A8A;">
-    <a href="https://github.com/aditya26062003" style="color: #1E40AF; text-decoration: none;">GitHub</a>
+    <a href="https://github.com/EchoSingh" style="color: #1E40AF; text-decoration: none;">GitHub</a>
     <span style="color: #2563EB;"> · </span>
     <a href="https://linkedin.com/in/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
     <span style="color: #2563EB;"> · </span>
@@ -21,7 +21,13 @@
 </h4>
   
   <div style="margin: 20px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya26062003&amp;border_radius=10&amp;card_width=500&amp;ring=9C6BFF&amp;fire=9C6BFF&amp;currStreakLabel=9C6BFF&amp;border=FFFFFF00&amp;background=FFFFFF00&amp;stroke=FFFFFF00&amp;currStreakNum=7F3F98&amp;sideNums=7F3F98&amp;sideLabels=7F3F98&amp;dates=A38CCF&amp;excludeDaysLabel=A38CCF" alt="GitHub Streak" loading="lazy" title="GitHub Streak" style="width: 50%; max-width: 100px;">
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=EchoSingh&amp;border_radius=10&amp;card_width=500&amp;ring=9C6BFF&amp;fire=9C6BFF&amp;currStreakLabel=9C6BFF&amp;border=FFFFFF00&amp;background=FFFFFF00&amp;stroke=FFFFFF00&amp;currStreakNum=7F3F98&amp;sideNums=7F3F98&amp;sideLabels=7F3F98&amp;dates=A38CCF&amp;excludeDaysLabel=A38CCF" 
+        alt="GitHub Streak" 
+        loading="lazy" 
+        title="GitHub Streak" 
+        style="width: 50%; max-width: 500px;"
+    >
 </div>
 
 
