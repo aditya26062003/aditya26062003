@@ -5,7 +5,7 @@
     <a href="https://github.com/EchoSingh/">
       <img src="https://komarev.com/ghpvc/?username=EchoSingh&color=1E40AF&label=Profile+Views" alt="Views Counter" style="margin: 10px;" />
     </a>
-    <a href="https://github.com/aditya26062003/">
+    <a href="https://github.com/EchoSingh">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEchoSingh1212%2Fhit-counter&count_bg=%231E40AF&title_bg=%231E3A8A&title=Hits" alt="Hits Counter" style="margin: 10px;" />
     </a>
   </p>
@@ -13,7 +13,7 @@
   <h4 style="color: #1E3A8A;">
     <a href="https://github.com/EchoSingh" style="color: #1E40AF; text-decoration: none;">GitHub</a>
     <span style="color: #2563EB;"> · </span>
-    <a href="https://linkedin.com/in/adityasingh26062003" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
+    <a href="www.linkedin.com/in/adityasinghgdev" style="color: #1E40AF; text-decoration: none;">LinkedIn</a>
     <span style="color: #2563EB;"> · </span>
     <a href="https://twitter.com/ADITYAS01117542" style="color: #1E40AF; text-decoration: none;">Twitter</a>
     <span style="color: #2563EB;"> · </span>
