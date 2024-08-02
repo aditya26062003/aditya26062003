@@ -52,3 +52,8 @@ HTML                          >>>----------------------   12.56 %
 <!--END_SECTION:waka-->
 
 </div>
+Username: adi_2606
+Rating: 610
+Rank: newbie
+Max Rating: 610
+Max Rank: newbie
