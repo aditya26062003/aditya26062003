@@ -43,35 +43,3 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
           config_order: introduction, base.activity+community, base.repositories, lines, wakatime, topics, achievements
-
-  codeforces-stats:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
-      - name: Install Dependencies
-        run: |
-          pip install requests
-
-      - name: Fetch Codeforces Stats
-        env:
-          CF_HANDLE: ${{ secrets.CF_HANDLE }}  # Add your Codeforces handle as a secret
-        run: |
-          python fetch_codeforces_stats.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m 'Update Codeforces stats'
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
