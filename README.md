@@ -36,24 +36,8 @@
       <img src="github-metrics.svg" alt="Metrics" loading="lazy" title="GitHub Metrics"/>
     </picture>
   </div>
-  
+
+![](https://raw.githubusercontent.com/echosingh/cf-stats/main/output/light_card.svg)
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
-
-```f#
-From: 23 May 2024 - To: 01 August 2024
-
-C++                           >>>>>--------------------   21.30 %
-Python                        >>>>---------------------   16.75 %
-C                             >>>----------------------   12.63 %
-HTML                          >>>----------------------   12.56 %
-```
-
-<!--END_SECTION:waka-->
-
-</div>
-Username: adi_2606
-Rating: 610
-Rank: newbie
-Max Rating: 610
-Max Rank: newbie
+  <!--END_SECTION:waka-->
