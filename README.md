@@ -37,7 +37,7 @@
     </picture>
   </div>
 
-![](https://raw.githubusercontent.com/echosingh/cf-stats/main/output/light_card.svg)
+
   <h1 align="center" style="color: #1E40AF;">WakaTime Activity</h1>
   <!--START_SECTION:waka-->
 
